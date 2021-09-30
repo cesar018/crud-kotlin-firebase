@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="120dp"
         android:text="Selecciona una Lista"
+        android:textColor="#000000"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -19,7 +20,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/op_doc"
         android:layout_width="116dp"
         android:layout_height="65dp"
         android:layout_marginTop="284dp"
@@ -30,7 +31,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/op_esc"
         android:layout_width="119dp"
         android:layout_height="65dp"
         android:layout_marginTop="284dp"
