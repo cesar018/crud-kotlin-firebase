@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "255487189559",
+    "firebase_url": "https://bd-docents-default-rtdb.firebaseio.com",
+    "project_id": "bd-docents",
+    "storage_bucket": "bd-docents.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255487189559:android:a5a8f235497b0e36bfd5b2",
+        "android_client_info": {
+          "package_name": "com.example.crud_firebase_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255487189559-k8srluf29dsoffgb8v9rnngep26g1k7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTbmkJyZzHq-HHS1mO9e-LgN6iJ8YVv7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255487189559-k8srluf29dsoffgb8v9rnngep26g1k7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
